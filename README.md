@@ -2,6 +2,8 @@
 
 Blue Way Logistics Software
 
+![Blue Way Logistics](blueway.svg)
+
 # License
 
 Blue Way Logistics Software
