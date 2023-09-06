@@ -27,6 +27,7 @@ def email():
             break
         else:
             email_list.append(email)
+        return email_list
         
 def password():
     while True:
@@ -34,7 +35,9 @@ def password():
         if password == 'quit':
             break
         else:
-            email_list.append(password)        
+            email_list.append(password) 
+        return email_list
 
-email()
-password()
+my_email = email() 
+my_password = password()
+print('my_email and password is:', my_email, my_password)
