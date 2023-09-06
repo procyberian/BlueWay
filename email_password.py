@@ -19,6 +19,7 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 email_list = []
+password_list = []
 
 def email():
     while True:
@@ -35,9 +36,9 @@ def password():
         if password == 'quit':
             break
         else:
-            email_list.append(password) 
-        return email_list
+            password_list.append(password) 
+        return password_list
 
 my_email = email() 
 my_password = password()
-print('my_email and password is:', my_email, my_password)
+print('my email and my password is:', my_email, my_password)
