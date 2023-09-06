@@ -1,11 +1,4 @@
-# Blue Way Logistics Software
-
-Blue Way Logistics Software
-
-![Blue Way Logistics](blueway.svg)
-
-# License
-
+"""
 Blue Way Logistics Software
 
 Copyright (C) 2023 Masscollabs Services
@@ -24,3 +17,14 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+"""
+cities = []
+
+while True:
+    city = input('enter a city name:')
+    if city == 'quit':
+        break
+    else:
+        cities.append(city)
+print('city names are written...')
+print(cities)
