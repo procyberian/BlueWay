@@ -23,20 +23,23 @@ password_list = []
 
 def email():
     while True:
-        email = input('email is:')
-        email_list.append(email)
+        email = input('email is:').strip()
         if email == "":
             break
+        else:
+            email_list.append(email)
     return email_list
         
 def password():
     while True:
-        password = input('password is:')
-        password_list.append(password) 
+        password = input('password is:').strip()
         if password == "":
             break
+        else:
+            password_list.append(password)
     return password_list
 
 my_email = email() 
 my_password = password()
 print('my emails and my passwords are:', my_email, my_password)
+
