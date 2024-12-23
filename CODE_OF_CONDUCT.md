@@ -1,6 +1,20 @@
 # License for documentation
 
-Copyright (C)  2017-2023  Masscollabs Services
+Copyright (C)  2024-2025  QB Networks
+
+Copyright (C)  2017-2025  Masscollabs Services
+
+Copyright (C)  2017-2025  Procyberian and contributors
+
+Copyright (C)  2017-2025  Mass Collaboration Labs and contributors
+
+Copyright (C)  2017-2025  amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025  Birleşik Dergi Yazarları
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -9,10 +23,10 @@ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 A copy of the license is included in the section entitled "GNU
 Free Documentation License".
 
-# Masscollabs Services Code of Conduct
+# Masscollabs Services Code of Conduct Scope
 
 * This code of conduct file is licensed under the terms of GFDLv1.3 or any later. 
-* This Code of Conduct applies to Masscollabs Services or in other words [Masscollabs](https://codeberg.org/masscollabs/), [procyberian](https://codeberg.org/procyberian), [Mass Collaboration Labs](https://codeberg.org/masscollaborationlabs) and [amassivus](https://codeberg.org/amassivus) organizations.
+* This Code of Conduct applies to [QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) , [bilsege](https://github.com/bilsege) and [Birleşik Dergi](https://github.com/birlesikxyz) organizations.
 
 ## Why we are writing a Code of Conduct and why it is so important
 
@@ -22,7 +36,8 @@ Free Documentation License".
 
 ### Domains and licenses
 
-* We decide three layers for each organization amassivus, Mass Collaboration Labs, procyberian and Masscollabs Services. For in-house purposes and for our partners which we have a very close contact, like in person, we prefer Copyleft licenses. Mostly we prefer AGPLv3 or later because we are focused on Internet technologies. But for other software GPLv3 or later, for documentation GFDLv1.3 or later, for artworks CC BY-SA 4.0 or later licenses are what we prefer for our own works. 
+* We decide three layers for each organization [QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) , [bilsege](https://github.com/bilsege) and [Birleşik Dergi](https://github.com/birlesikxyz) organizations.
+. For in-house purposes and for our partners which we have a very close contact, like in person, we prefer Copyleft licenses. Mostly we prefer AGPLv3 or later because we are focused on Internet technologies. But for other software GPLv3 or later, for documentation GFDLv1.3 or later, for artworks CC BY-SA 4.0 or later licenses are what we prefer for our own works. 
 * For outsiders and who are **not** in our community instances, maybe other companies, individuals or state organizations we'll offer BSD 3-Clause license. The reason is easy to understand, we are the authors so we can easily write anything from scratch anytime. 
 * All code base will be written by our Core Team but contributions is needed and since we are building a free organization it is very important for us to listen other authors' ideas. But our approach is not to rely on any technology so we are trying to be a free and an independent organization, and an open system. Open system does **not** mean Open Source but we mean that we are trying to develop things for every operating system and hardware platform.
 
@@ -33,11 +48,13 @@ Free Documentation License".
 
 ### Core Team
 
-* As we understand from software, it should be done in a short time and it should be done well and simple, maybe in 5 minutes or 30 minutes. Core Team is responsible from maintaining all information database in the domain and subdomains (amassivus, Mass Collaboration Labs, and procyberian). So Core Team can delete any harmful information such as malware code/binary or any kind of information that includes a hate speech, racism and sexism. It is very important for us to learn from other organizations. So we are curious to learn other Free Software and Open Source code of conduct standards written before us.
+* As we understand from software, it should be done in a short time and it should be done well and simple, maybe in 5 minutes or 30 minutes. Core Team is responsible from maintaining all information database in the domain and subdomains ([QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) , [bilsege](https://github.com/bilsege) and [Birleşik Dergi](https://github.com/birlesikxyz) organizations.
+). So Core Team can delete any harmful information such as malware code/binary or any kind of information that includes a hate speech, racism and sexism. It is very important for us to learn from other organizations. So we are curious to learn other Free Software and Open Source code of conduct standards written before us.
 
 ### Committers
 
-* Committers are mid-level or experienced developers in domain and subdomains (amassivus, Mass Collaboration Labs, and procyberian) or any information/content authors which has the right to add/commit information to our information database. We are a freely, open and collaborative company so we believe in free speech/freedom of speech and we are happy to get feedback and contributions from committers within our domain, subdomains or the people who is **not** working with us directly.
+* Committers are mid-level or experienced developers in domain and subdomains ([QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) , [bilsege](https://github.com/bilsege) and [Birleşik Dergi](https://github.com/birlesikxyz) organizations.
+) or any information/content authors which has the right to add/commit information to our information database. We are a freely, open and collaborative company so we believe in free speech/freedom of speech and we are happy to get feedback and contributions from committers within our domain, subdomains or the people who is **not** working with us directly.
 
 ### Contributors
 
@@ -78,6 +95,3 @@ Free Documentation License".
 * collaboration is good
 * privacy is good
 * we demand to do good and useful things for the *public* and do **not** want to rely on any technology so we are authors and we can make something better replacing existing information and technology.
-
-
-

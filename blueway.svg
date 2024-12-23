@@ -6,7 +6,7 @@
    version="1.1"
    id="svg26"
    sodipodi:docname="blueway.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,14 +22,16 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3258875"
-     inkscape:cx="327.70504"
-     inkscape:cy="176.86267"
-     inkscape:window-width="1322"
-     inkscape:window-height="704"
+     inkscape:cx="328.08213"
+     inkscape:cy="177.23977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg26" />
+     inkscape:current-layer="svg26"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs30">
     <clipPath
@@ -134,13 +136,13 @@
        y="279.22504">free as in freedom</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:12.5px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.9375;fill:#0000ff"
+     style="font-size:12.5px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#0000ff;stroke-width:0.9375"
      x="49.970215"
      y="306.23743"
      id="text14771"><tspan
        sodipodi:role="line"
        id="tspan14769"
-       style="font-size:12.5px;stroke-width:0.9375;fill:#0000ff"
+       style="font-size:12.5px;fill:#0000ff;stroke-width:0.9375"
        x="49.970215"
-       y="306.23743">Masscollabs Services and Procyberian System Distribution</tspan></text>
+       y="306.23743">Masscollabs Services and Procyberian Systems Distribution</tspan></text>
 </svg>
